@@ -1,0 +1,5 @@
+w, h = map(float, input().split())
+bmi = w / ((h/100)**2)
+if bmi < 18.5: print("Underweight")
+elif 18.5 <= bmi < 24: print("Normal")
+else: print("Overweight")

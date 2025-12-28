@@ -1,0 +1,1 @@
+print("Wrong Result!") # 故意輸出錯誤格式
